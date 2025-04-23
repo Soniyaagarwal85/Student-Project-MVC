@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\StudentWebApi\\StudentWebApi\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\StudentWebApi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StudentWebApi.bf3h0esivs.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.StudentWebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.StudentWebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.StudentWebApi.props",
+      "PackagePath": "build\\StudentWebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentWebApi.props",
+      "PackagePath": "buildMultiTargeting\\StudentWebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.StudentWebApi.props",
+      "PackagePath": "buildTransitive\\StudentWebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

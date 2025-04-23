@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "StudentWebApi.bf3h0esivs.styles.css",
+      "AssetFile": "StudentWebApi.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZyZP2YDaZWl6w6xnxG2wHJSCpMqGeOBn7/S7yBK+C8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 16:11:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bf3h0esivs"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZyZP2YDaZWl6w6xnxG2wHJSCpMqGeOBn7/S7yBK+C8="
+        },
+        {
+          "Name": "label",
+          "Value": "StudentWebApi.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "StudentWebApi.styles.css",
+      "AssetFile": "StudentWebApi.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZyZP2YDaZWl6w6xnxG2wHJSCpMqGeOBn7/S7yBK+C8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 16:11:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZyZP2YDaZWl6w6xnxG2wHJSCpMqGeOBn7/S7yBK+C8="
+        }
+      ]
+    }
+  ]
+}

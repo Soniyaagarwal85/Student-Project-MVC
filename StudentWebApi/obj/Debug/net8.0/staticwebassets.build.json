@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "Hash": "LcaWmSbOOPrtP6vL/c2I/95RdiwTrHMeHFihtr/fPmU=",
+  "Source": "StudentWebApi",
+  "BasePath": "_content/StudentWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\source\\repos\\StudentWebApi\\StudentWebApi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentWebApi.styles.css",
+      "SourceId": "StudentWebApi",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\StudentWebApi\\StudentWebApi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/StudentWebApi",
+      "RelativePath": "StudentWebApi#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "bf3h0esivs",
+      "Integrity": "aZyZP2YDaZWl6w6xnxG2wHJSCpMqGeOBn7/S7yBK+C8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Admin\\source\\repos\\StudentWebApi\\StudentWebApi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentWebApi.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\source\\repos\\StudentWebApi\\StudentWebApi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentWebApi.bundle.scp.css",
+      "SourceId": "StudentWebApi",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\StudentWebApi\\StudentWebApi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/StudentWebApi",
+      "RelativePath": "StudentWebApi#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "bf3h0esivs",
+      "Integrity": "aZyZP2YDaZWl6w6xnxG2wHJSCpMqGeOBn7/S7yBK+C8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Admin\\source\\repos\\StudentWebApi\\StudentWebApi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentWebApi.bundle.scp.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StudentWebApi.bf3h0esivs.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Admin\\source\\repos\\StudentWebApi\\StudentWebApi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentWebApi.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZyZP2YDaZWl6w6xnxG2wHJSCpMqGeOBn7/S7yBK+C8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 16:11:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bf3h0esivs"
+        },
+        {
+          "Name": "label",
+          "Value": "StudentWebApi.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZyZP2YDaZWl6w6xnxG2wHJSCpMqGeOBn7/S7yBK+C8="
+        }
+      ]
+    },
+    {
+      "Route": "StudentWebApi.bf3h0esivs.styles.css",
+      "AssetFile": "C:\\Users\\Admin\\source\\repos\\StudentWebApi\\StudentWebApi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentWebApi.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZyZP2YDaZWl6w6xnxG2wHJSCpMqGeOBn7/S7yBK+C8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 16:11:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bf3h0esivs"
+        },
+        {
+          "Name": "label",
+          "Value": "StudentWebApi.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZyZP2YDaZWl6w6xnxG2wHJSCpMqGeOBn7/S7yBK+C8="
+        }
+      ]
+    },
+    {
+      "Route": "StudentWebApi.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Admin\\source\\repos\\StudentWebApi\\StudentWebApi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentWebApi.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZyZP2YDaZWl6w6xnxG2wHJSCpMqGeOBn7/S7yBK+C8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 16:11:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZyZP2YDaZWl6w6xnxG2wHJSCpMqGeOBn7/S7yBK+C8="
+        }
+      ]
+    },
+    {
+      "Route": "StudentWebApi.styles.css",
+      "AssetFile": "C:\\Users\\Admin\\source\\repos\\StudentWebApi\\StudentWebApi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentWebApi.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZyZP2YDaZWl6w6xnxG2wHJSCpMqGeOBn7/S7yBK+C8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 16:11:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZyZP2YDaZWl6w6xnxG2wHJSCpMqGeOBn7/S7yBK+C8="
+        }
+      ]
+    }
+  ]
+}
